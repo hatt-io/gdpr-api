@@ -1,0 +1,23 @@
+{
+  "name": "gdpr-api",
+  "version": "1.0.0",
+  "description": "GDPR-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatt-io/gdpr-api.git"
+  },
+  "keywords": [
+    "GDPR",
+    "API"
+  ],
+  "author": "Ezra Hatt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hatt-io/gdpr-api/issues"
+  },
+  "homepage": "https://github.com/hatt-io/gdpr-api#readme"
+}
